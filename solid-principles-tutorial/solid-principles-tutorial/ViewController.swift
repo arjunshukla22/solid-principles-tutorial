@@ -46,6 +46,7 @@ class DashboardViewController : UIViewController   {
         
         self.view.backgroundColor = .red
         
+        // Fetch login details
         fetchLoginDetails()
     }
     
